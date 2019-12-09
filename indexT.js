@@ -1,1 +1,3 @@
-var name= 'asa'
+var firstName= 'Asa';
+var secondName= 'Jonsson';
+console.log(firstName, secondName);
